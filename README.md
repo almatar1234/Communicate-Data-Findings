@@ -5,6 +5,7 @@ This project has two parts that demonstrate the importance and value of data vis
 
 # Project Findings
 After finishing the analysis and visualization, I have concluded that:
+
 1- Men ride bikes more than women.
 
 2- Subsrcibers have the highest frequncy than Customers.
