@@ -3,6 +3,19 @@
 # Project Overview:
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process. In the first part, I will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, I will produce a short presentation that illustrates interesting properties, trends, and relationships that I discovered in my selected dataset. The primary method of conveying my findings will be through transforming the exploratory visualizations from the first part into polished, explanatory visualizations.
 
+# Project Requirements:
+This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
+
+* NumPy
+
+* pandas
+
+* Matplotlib
+
+* Seaborn
+
+* "201902-fordgobike-tripdata.csv" (This was not uploaded on this repository due to its huge size, I have uploaded the cleared version only).
+
 # Key Insights:
 After wrangling the gathered dataset, I have divided my invistigating into 3 parts; Univariant, Bivariant and Multivariant.
 
